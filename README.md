@@ -5,7 +5,7 @@ This repository contains my solution to the **Google Analytic Case Study 1**, ba
 
 > **Note on Data Availability:** Due to GitHub's file size limitations, the full project could not be hosted here. To find the complete project, including the full data cleaning process and interactive dashboards, click the link below.
 
-🔗 **[View Full Portfolio & Case Study](http://www.portfolio.com)**
+🔗 **[View Full Portfolio & Case Study](www.jankodi.dev)**
 
 ---
 
